@@ -9,4 +9,5 @@
 | [agaricus-lepiota.csv](https://raw.githubusercontent.com/jiangoz/DataSets/main/agaricus-lepiota.csv) | Samples corresponding to 23 species of gilled mushrooms in the Agaricus and Lepiota Family. | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Mushroom) |
 | [kc_house_data.csv](https://raw.githubusercontent.com/jiangoz/DataSets/main/kc_house_data.csv) | The dataset consists of house prices from King County - an area in the US State of Washington. | [kaggle](https://www.kaggle.com/shivachandel/kc-house-data?select=kc_house_data.csv) |
 | [spambase.csv](https://raw.githubusercontent.com/jiangoz/DataSets/main/spambase.csv) | Collection of spam e-mails. | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/spambase) |
+| [music_features_subset.csv](https://raw.githubusercontent.com/jiangoz/DataSets/main/music_features_subset.csv) | Music audio features and release year. | [kaggle](https://www.kaggle.com/rodolfofigueroa/spotify-12m-songs?select=tracks_features.csv) |
 | Placeholder | Hello World | None |
